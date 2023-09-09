@@ -1,0 +1,11 @@
+node_modules
+out
+temp
+
+.env
+.env.config
+.env.secret
+src/log
+.idea
+.eslintcache
+.history
